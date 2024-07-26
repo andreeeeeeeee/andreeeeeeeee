@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreeeeeeeee&layout=donut&locale=pt-br&theme=github_dark)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrebs&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
