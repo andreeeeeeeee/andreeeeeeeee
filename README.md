@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreeeeeeeee&layout=donut&locale=pt-br&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrebs&theme=github_dark&layout=compact" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrebs&theme=github_dark&layout=compact" />
 </a>
